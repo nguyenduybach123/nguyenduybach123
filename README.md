@@ -1,5 +1,6 @@
 # 💫 About Me:
-<h1>HI, I'm Bach Nguyen 👋</h1><br>I'm a programming lover from Ho Chi Minh City, Vietnam<br>
+<h1>HI, I'm Bach Nguyen 👋</h1>
+<br><h3>I'm a programming lover from Ho Chi Minh City, Vietnam</h3><br>
 
 
 # 💻 Tech Stack:
