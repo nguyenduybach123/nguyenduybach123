@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>HI, I'm Bach Nguyen 👋</h1>
+<h1>Hi, I'm Bach Nguyen 👋</h1>
 <br><h3>I'm a programming lover from Ho Chi Minh City, Vietnam</h3><br>
 
 
